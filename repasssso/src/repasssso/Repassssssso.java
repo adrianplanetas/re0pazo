@@ -6,9 +6,10 @@ public class Repassssssso {
 	public boolean visualizarSalida(boolean acertada, int i, String newParam) {
 	System.out.println ();
 	if (acertada) {
-		System.out.println (i + (i-1) +" intentos en la partida nº " +MasterMind+ i);
+		System.out.println (i + (i-1) +" juan elº " +MasterMind+ i);
 	} else {
 		System.out.println (i + i);
+		System.out.println (i + (i-1) +" juan elº " +MasterMind+ i);
 	}
 	return acertada;
 }
